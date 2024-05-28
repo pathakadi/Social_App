@@ -56,7 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-          chat.Connect
+          Sociopedia
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
